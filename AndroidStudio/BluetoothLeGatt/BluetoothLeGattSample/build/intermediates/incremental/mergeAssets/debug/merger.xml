@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="19.1.0" >
+        <source path="/Users/onwuneme/Downloads/BluetoothLeGatt/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/19.1.0/assets" />
+    </dataSet>
+    <dataSet config="19.1.0" >
+        <source path="/Users/onwuneme/Downloads/BluetoothLeGatt/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/assets" />
+    </dataSet>
+    <dataSet config="main" >
+        <source path="/Users/onwuneme/Downloads/BluetoothLeGatt/BluetoothLeGattSample/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/onwuneme/Downloads/BluetoothLeGatt/BluetoothLeGattSample/src/debug/assets" />
+    </dataSet>
+
+</merger>
